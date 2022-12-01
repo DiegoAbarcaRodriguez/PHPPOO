@@ -1,0 +1,17 @@
+{
+    "name": "diego/introduccion-phpoop_fin",
+    "description": "Aprendiendo a usar composer",
+    "authors": [
+        {
+            "name": "DiegoAbarca99",
+            "email": "d.abarcarodriguez@ugto.mx"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "APP\\":"./clases"
+        }
+    }
+
+}
